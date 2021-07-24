@@ -1,0 +1,22 @@
+.menu-right-icon{
+   font-size: 20px;
+   margin: 0 13px;
+   cursor: pointer;
+}
+span.position-absolute.top-0.start-100.translate-middle.badge.rounded-pill.bg-danger {
+    font-size: 8px;
+}
+header{
+    background: #ECFDFF;
+}
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+div#carouselExampleSlidesOnly {
+    padding: 5rem 0;
+}
+.btn-style {
+    font-size: 20px;
+    padding: 15px 35px;
+}
