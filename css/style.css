@@ -31,3 +31,10 @@ i.fas.fa-sort-up {
 .feture-explor-btn{
     margin-top: 17rem;
 }
+#carouselExampleControls>.carousel-inner>.carousel-item>.row>.col-3{
+    transition: 0.5s;
+}
+#carouselExampleControls>.carousel-inner>.carousel-item>.row>.col-3:hover{
+    box-shadow: 0px -1px 20px -11px #000000;
+    border-radius: 3px;
+}
