@@ -31,13 +31,20 @@ i.fas.fa-sort-up {
 .feture-explor-btn{
     margin-top: 17rem;
 }
-#carouselExampleControls>.carousel-inner>.carousel-item>.row>.col-3{
+.carousel-inner>.carousel-item>.row>.col-3{
     transition: 0.5s;
 }
-#carouselExampleControls>.carousel-inner>.carousel-item>.row>.col-3:hover{
+.carousel-inner>.carousel-item>.row>.col-3:hover{
     box-shadow: 0px -1px 20px -11px #000000;
     border-radius: 3px;
 }
 .our-sale-offer{
     background: #ECFDFF;
+}
+.subscribe-section{
+    background: url(../images/subscribe_area.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3rem 0;
 }
