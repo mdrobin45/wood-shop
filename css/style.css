@@ -48,3 +48,6 @@ i.fas.fa-sort-up {
     background-size: cover;
     padding: 3rem 0;
 }
+.hover:hover{
+    color: #BB2D3B !important;
+}
