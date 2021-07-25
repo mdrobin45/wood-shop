@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 .menu-right-icon{
    font-size: 20px;
    margin: 0 13px;
@@ -11,7 +14,6 @@ header{
 }
 h1 {
     font-size: 60px;
-    font-weight: bold;
 }
 div#carouselExampleSlidesOnly {
     padding: 5rem 0;
@@ -19,4 +21,13 @@ div#carouselExampleSlidesOnly {
 .btn-style {
     font-size: 20px;
     padding: 15px 35px;
+}
+.explr-btn{
+    letter-spacing: 2px;
+}
+i.fas.fa-sort-up {
+    transform: rotate(90deg);
+}
+.feture-explor-btn{
+    margin-top: 17rem;
 }
