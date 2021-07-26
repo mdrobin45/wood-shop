@@ -28,9 +28,12 @@ div#carouselExampleSlidesOnly {
 i.fas.fa-sort-up {
     transform: rotate(90deg);
 }
-.feture-explor-btn{
+@media only screen and (min-width:768px) {
+    .feture-explor-btn{
     margin-top: 17rem;
 }
+}
+
 .carousel-inner>.carousel-item>.row>.col-3{
     transition: 0.5s;
 }
