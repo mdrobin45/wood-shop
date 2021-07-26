@@ -54,3 +54,8 @@ i.fas.fa-sort-up {
 .hover:hover{
     color: #BB2D3B !important;
 }
+@media only screen and (min-width:768px) {
+    .w-md-50{
+        width: 50% !important;
+    }  
+}
